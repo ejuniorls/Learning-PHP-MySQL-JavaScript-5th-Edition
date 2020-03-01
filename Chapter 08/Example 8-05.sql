@@ -1,0 +1,4 @@
+USE publications;
+
+ALTER TABLE classics ADD id INT UNSIGNED
+    NOT NULL AUTO_INCREMENT KEY;
