@@ -1,0 +1,1 @@
+mysqldump -u user –p password publications > publications.s
